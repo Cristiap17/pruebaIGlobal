@@ -5,10 +5,15 @@ import mobileHeader from '../assets/image-header-mobile.jpg'
 export default function CardComponent() {
     return (
         <div className='card-container'>
+           
             <div className='header-container'>
+                <div>
+
                 <img className='image-style' src={mobileHeader} alt="Mobile Header" />
+                </div>
                 <div className='super-position'></div>
             </div>
+            
             <div></div>
             <div className='main-container'>
                 <h1>Get <span className='highlight'>insights</span> that help your business grow.</h1>
