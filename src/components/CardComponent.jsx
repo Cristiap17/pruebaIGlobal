@@ -7,7 +7,7 @@ export default function CardComponent() {
         <div className='card-container'>
             <div className='header-container'>
                 <img src={mobileHeader} alt="Mobile Header" />
-                <div></div>
+                <div className='super-position'></div>
             </div>
             <div></div>
             <div className='main-container'>
