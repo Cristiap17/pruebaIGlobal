@@ -1,12 +1,11 @@
-# Titulo App 
+# Pokedex 
 
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Requisitos Previos](#requisitos-previos)
 3. [Configuracion Inicial](#configuración-inicial)
 4. [Ejecutar la aplicacion](#ejecutar-la-aplicación)
-5. []()
-6. []()
+5. [Uso de la aplicacion](#uso-de-la-aplicación)
 #
 
 ## **General Info**
@@ -72,7 +71,7 @@ yarn dev
     1. Si el campo de texto se encuentra vacío éste no dejara hacer ninguna busqueda y aparecera un mensaje de error.
 
     2. Si el nombre del pokemon deseado no existe, saldra un mensaje de error.
-    
+
     3. Al momento de escribir cualquier letra sobre el campo de texo, automaticamente aprecera un Dropdown el cual contendra sugerencias de nombres de pokemon dependiendo de las letras que se vayan ingresando sobre el campo de texto.
 
 ![Deskop Desingl](./src/assets/drodown-desing.PNG)
