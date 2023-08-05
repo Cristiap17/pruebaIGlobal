@@ -21,7 +21,7 @@ export default function CardComponent() {
 
 
     const handleChange = (e) => {
-        const pokemonSuggested = allPokemons.filter((pokemon) => pokemon.name.includes(e.target.value).toLowerCase().trim())
+        const pokemonSuggested = allPokemons.filter((pokemon) => pokemon.name.includes(e.target.value.toLowerCase().trim()))
         setPokemonsFilters(pokemonSuggested)
         setNamePokemon(e.target.value);
         setError(false)
