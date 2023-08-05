@@ -1606,6 +1606,11 @@ react-refresh@^0.14.0:
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.14.0.tgz#4e02825378a5f227079554d4284889354e5f553e"
   integrity sha512-wViHqhAd8OHeLS/IRMJjTSDHF3U9eWi62F/MledQGPdJGDhodXJ9PBLNGr6WWL7qlH12Mt3TyTpbS+hGXMjCzQ==
 
+react-spinner-animated@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/react-spinner-animated/-/react-spinner-animated-3.1.1.tgz#2e8a589afe3c0bef95980ca00dd346d02d58bdd8"
+  integrity sha512-bv4YRVAKjAMahHmeQfLp9qD+Y4v/ZkV9L/kYzVeAOSvvjjVknqdTn9iNT0CBqsW4AU3oFZ/xTle/5C8qzOvvsg==
+
 react@^18.2.0:
   version "18.2.0"
   resolved "https://registry.yarnpkg.com/react/-/react-18.2.0.tgz#555bd98592883255fa00de14f1151a917b5d77d5"
