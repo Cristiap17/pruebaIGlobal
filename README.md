@@ -53,6 +53,9 @@ yarn install
 yarn dev
 ```
 
+2. Tambien se puede acceder a la aplicacion por medio del siguiente link: [Pokedex](https://cp-prueba02-pokeapi.netlify.app/).
+
+
 
 ## **Uso de la aplicación**
 - Al abrir la aplicación, en la pantalla inicial una card donde se encontrara la informacion del primer pokemon en la lista de los 1281 pokemon con los que cuenta la API PokéApi.
