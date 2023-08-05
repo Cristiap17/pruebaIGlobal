@@ -223,7 +223,7 @@
 
     .button-submit {
         text-align: center;
-        width: 25%;
+        width: 20%;
     }
 
     .card-container {
@@ -288,6 +288,6 @@
     }
 
     .buttons-container button:hover {
-        background-color: transparent;
+        background-color: #cf4c11;
     }
 }
