@@ -26,10 +26,14 @@
 .searcher-container form {
     display: flex;
     align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 8px;
 }
 
 .input-form {
     height: 26px;
+    font-size: 16px;
 }
 
 .input-form.error {
@@ -70,6 +74,7 @@
 .dropdown ul {
     padding: 0;
     margin: 2px;
+    font-size: 16px;
     cursor: pointer;
 }
 
@@ -201,6 +206,26 @@
         font-size: 16px;
     }
 
+    .input-drop-container {
+        width: 50%;
+    }
+
+    .input-form {
+        width: 100%;
+        border-radius: 8px;
+
+    }
+
+    .dropdown {
+        width: 52%;
+        border-radius: 8px;
+    }
+
+    .button-submit {
+        text-align: center;
+        width: 25%;
+    }
+
     .card-container {
         display: flex;
         align-items: center;
@@ -260,5 +285,9 @@
 
     .footer-container p {
         font-size: 8px;
+    }
+
+    .buttons-container button:hover {
+        background-color: transparent;
     }
 }

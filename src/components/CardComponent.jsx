@@ -65,7 +65,7 @@ export default function CardComponent() {
             <div className='searcher-container'>
                 <h2>Search your favorite pokemón!</h2>
                 <form>
-                    <div>
+                    <div className='input-drop-container'>
                         <input
                             value={namePokemon}
                             onChange={handleChange}
